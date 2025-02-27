@@ -1,4 +1,5 @@
-#Landing Page of Hospital 
+Landing Page of Hospital 
+
 In this project I created, A default medical landing page has a clean layout with a straightforward design. 
 The appointment booking form is kept at the top, and other quick contact informationis placed right below the header section. 
 Hence, new users with needs can contact you quickly. 
