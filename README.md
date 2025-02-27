@@ -10,3 +10,6 @@ UI of hospital landing Page Looks like below,
 
 Landing Page means :A landing page is a standalone web page specifically designed for marketing or advertising campaigns, where visitors “land” after clicking on a link in an email, 
 or ads from Google, Bing, YouTube, Facebook, Instagram, Twitter, or similar places on the web.
+
+![image](https://github.com/user-attachments/assets/28969b89-21c7-48cf-bc2c-b187345e1fbd)
+
